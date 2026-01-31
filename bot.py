@@ -1,7 +1,7 @@
 import telebot
 from googletrans import Translator
 
-TOKEN = "ВСТАВЬ_СЮДА_ТОКЕН_БОТА"
+TOKEN = "8499.....Z8o"
 
 bot = telebot.TeleBot(TOKEN)
 translator = Translator()
